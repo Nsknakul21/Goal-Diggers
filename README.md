@@ -1,48 +1,45 @@
 
-# [Project Name] 🎯
+# Motiv8 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Goal Diggers
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: FAYIZ - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 2: NAKUL - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 3: FAHAD - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
 
 ### Project Description
-[2-3 lines about what your project does]
+A website which tells us give u motivation but does the opposite
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+JUST A MOTIVATION
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+GIVES DE-MOTIVATION
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+HTML
+CSS
+JAVASCRIPT
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+NOTHING
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+# Installation Sc
+JUST VS CODE AND WEBSITE LOCAL HOST
 
 # Run
-[commands]
+RUN IN VS CODE
 
 ### Project Documentation
-For Software:
+For Software:We have use HTML for website , Front end using css and Back end using Java Script
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -86,9 +83,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- FAYIZ: IDEA ABOUT THE PROJECT
+- NAKUL: CODE THE PROJECT
+- FAHAD: DONE WITH THOUGHTS INSIDE THE BACKEND
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
